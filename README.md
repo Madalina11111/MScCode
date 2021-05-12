@@ -16,6 +16,7 @@ Description of code from every file:
 - Calculate average cosine distance.ipynb - This file calculates the average cosine distance between the images from 2 npz files
 
 Link to the npz files used in the code: https://drive.google.com/drive/folders/1iVSlJB3GqIHLXeHkMT4y6lq68gxQd9TO?usp=sharing 
+
 Links to the images:
 - Kaggle: https://drive.google.com/drive/folders/130NY_M9UVEQ6gQgErzpcmAxMmAhTJgEg?usp=sharing 
 - IDRiD: https://drive.google.com/drive/folders/1OLPjnRmsOmc-1tktkBHp-kpFOx4VxlVZ?usp=sharing 
